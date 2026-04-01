@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bsorensenmia-hash.github.io/sorensen-bookkeeping/sitemap.xml
